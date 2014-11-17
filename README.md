@@ -1,14 +1,3 @@
-DeepDark-Conversation
-=====================
-
-Adding the DeepDark Theme to the awesome Thunderbird Conversations.
-
-I just fooled around with my mighty CSS skills!
-Thanks and praise to the creator Jonathan (https://addons.mozilla.org/de/thunderbird/user/mozjonathan/
-
-
-
-
 Thunderbird Conversations
 =========================
 
@@ -67,4 +56,3 @@ tests/mozmill-conversations. Once you qimport'd it,
     MOZMILL_EXTRA=--addon=/home/jonathan/Code/gconversation@xulforum.org/conversations.xpi \
     SOLO_TEST=conversations/test-attachments.js mozmill-one
 
-=======
