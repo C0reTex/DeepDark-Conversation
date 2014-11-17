@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Thunderbird Conversations
 =========================
 
@@ -56,3 +57,9 @@ tests/mozmill-conversations. Once you qimport'd it,
     MOZMILL_EXTRA=--addon=/home/jonathan/Code/gconversation@xulforum.org/conversations.xpi \
     SOLO_TEST=conversations/test-attachments.js mozmill-one
 
+=======
+DeepDark-Conversation
+=====================
+
+Adding the DeepDark Theme to thunderbird AddOn Conversation
+>>>>>>> ca69572327bd0a84ad98ad69e0c4ad317519a9be
