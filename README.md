@@ -1,5 +1,5 @@
 The original plugin "Thunderbird Conversations" was developt by Jonathan Protzenko.
-I adjust the colors of the stylesheet, to make Conversations look like TT DeepDark
+I adjusted the colors of the stylesheet, to make Conversations look like TT DeepDark
 (Thunderbird Theme by [steva](https://addons.mozilla.org/en-US/thunderbird/user/steva/?src=api)).
 
 Thanks and praise to the developer of this awesome plugins.
