@@ -1,5 +1,12 @@
-Thunderbird Conversations
-=========================
+The original plugin "Thunderbird Conversations" was developt by Jonathan Protzenko.
+I adjust the colors of the stylesheet, to make Conversations look like TT DeepDark
+(Thunderbird Theme by [steva](https://addons.mozilla.org/en-US/thunderbird/user/steva/?src=api)).
+
+Thanks and praise to the developer of this awesome plugins.
+
+
+Thunderbird Conversations - in DeepDark-Theme
+=============================================
 
 This extension improves the threaded summary for emails in Thunderbird 3.0. It
 vastly improves the UI by including some ideas from GMail. More specifically:
