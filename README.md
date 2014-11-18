@@ -1,4 +1,4 @@
-The original plugin "Thunderbird Conversations" was developt by Jonathan Protzenko.
+The original plugin "Thunderbird Conversations" was developt by  [Jonathan Protzenko](https://addons.mozilla.org/en-US/thunderbird/user/mozjonathan/?src=api).
 I adjusted the colors of the stylesheet, to make Conversations look like TT DeepDark
 (Thunderbird Theme by [steva](https://addons.mozilla.org/en-US/thunderbird/user/steva/?src=api)).
 
